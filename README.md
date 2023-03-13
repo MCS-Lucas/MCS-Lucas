@@ -1,5 +1,5 @@
 ### Hello there!! My name is Lucas, I'm a developer and studant of Software Engeneering! 
-- Actually learning C, C++ and Python.
+- Actually learning C and C++, HTML and CSS, Java, JavaScript and Python.
 - Contact me in my social media! 
 
 
