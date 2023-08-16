@@ -1,11 +1,10 @@
 ### Hello there!! My name is Lucas, I'm a developer and studant of Software Engeneering! 
 - Currently learning:
--C and C++
--HTML and CSS
--Python
--JavaScript
--Starting Java
-
+- C and C++
+- Python
+- JavaScript
+- Starting Java
+- Html and CSS
 
 - Contact me in my social media! 
 
