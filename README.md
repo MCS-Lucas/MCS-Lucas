@@ -2,7 +2,7 @@
 - C and C++
 - Python
 - JavaScript
-- Starting Java
+- Java
 - Html and CSS
 
 - Contact me in my social media! 
