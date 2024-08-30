@@ -1,4 +1,4 @@
-### Hello there!! My name is Lucas, I'm a developer and studant of Computer Science!
+## Hello there!! My name is Lucas, I'm a developer and studant of Computer Science!
 
 💼Currently working on: 
 
