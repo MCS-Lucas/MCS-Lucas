@@ -1,12 +1,26 @@
 ## Hello there!! My name is Lucas, I'm a developer and studant of Computer Science!
 
-💼Currently working on: 
+💼Currently working with: 
 
-- C and C++
+- C, C# & C++
 - Python
-- JavaScript
+- JavaScript & TypeScript
 - Java
 - Html and CSS
+- CI\CD
+- SQL
+
+💻Used Libraries, Frameworks & Tools:
+
+- .Net Framework, ASP.NET (MVC & Razor Pages) & Blazor
+- Django, PyGame, Flask & Pandas
+- Angular, React, Express.js, Next.js & NestJS
+- SpringBoot, SpringAI, JavaFX
+- Bootstrap
+- Github Actions, DockerHub
+- MySQL, SQLServer, MongoDB, PostgreSQL, OracleDB & SQLite
+
+
 
 📫 Contact me in my social media! 
 
